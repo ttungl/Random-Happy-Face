@@ -1,7 +1,7 @@
 ## Random-Happy-Face
 Version 1.0 </br>
-This add-ons extension is just made for fun on my Friday night to relax, and may help you have a great day! 
-Supported on Google Chrome Browser.</br>
+This add-ons extension is just made for fun on my Friday night to relax, and may help you have a great day! </br>
+Support only Google Chrome Browser.</br>
 
 ## How to use the app
 1. Download this "Random-Happy-Face" repository.
