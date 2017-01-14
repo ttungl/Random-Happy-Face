@@ -4,11 +4,8 @@ This add-ons extension app is just made for fun, and it may help you have a grea
 Now it only supports for Google Chrome Browser.</br>
 
 ## How to use the app
-1. Download this "Random-Happy-Face" repository.
-2. Open your chrome browser.
-3. Click on the top rightmost (three vertical dots)
-4. Select "More Tools">>"Extensions">>"Load Unpacked Extension..">>Upload the unzipped "Random-Happy-Face" folder.
-5. Have fun!
+Go to the Chrome Web Store to download. Click "Add to Chrome" to install it.
+LINK: goo.gl/ILp7b3 
 
 ## Snapshot on Chrome Extensions
 ![alt tag](https://github.com/ttungl/Random-Happy-Face/blob/master/random-happy-face/results/random_happy_face.png?raw=true)
