@@ -14,7 +14,7 @@ Now it only supports for Google Chrome Browser.</br>
 ![alt tag](https://github.com/ttungl/Random-Happy-Face/blob/master/random-happy-face/results/random_happy_face.png?raw=true)
 
 ## Result
-![alt tag](https://github.com/ttungl/Random-Happy-Face/blob/master/random-happy-face/results/random-happy-face.gif?raw=true)
+![alt tag](https://github.com/ttungl/Random-Happy-Face/blob/master/random-happy-face/results/happyface.gif?raw=true)
 
 ## Input
 Your icons of interest.<br/>
