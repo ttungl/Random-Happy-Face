@@ -3,7 +3,14 @@ Version 1.0 </br>
 This add-ons extension is just made for fun on my Friday night to relax, and may help you have a great day! 
 Supported on Google Chrome Browser.</br>
 
-## Snapshot on Chrome Extension
+## How to use the app
+1. Download this "Random-Happy-Face" repository.
+2. Open your chrome browser.
+3. Click on the top rightmost (three vertical dots)
+4. Select "More Tools">>"Extensions">>"Load Unpacked Extension..">>Upload the unzipped "Random-Happy-Face" folder.
+5. Have fun!
+
+## Snapshot on Chrome Extensions
 ![alt tag](https://github.com/ttungl/Random-Happy-Face/blob/master/random-happy-face/results/random_happy_face.png?raw=true)
 
 ## Result
@@ -19,7 +26,7 @@ Repeat randomly your icons on Google Chrome browser. Just for fun!
 3. icons</br>
 
 ## Disclaimer:
-Inspired by: Google Chrome Extension Add-ons App Tutorials <br />
+Inspired by: Google Chrome Extensions Add-ons App Tutorials <br />
 Modified by: Tung Thanh Le <br />
 Email: ttungl at gmail <br />
 
