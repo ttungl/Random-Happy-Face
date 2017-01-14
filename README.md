@@ -1,6 +1,6 @@
 ## Random-Happy-Face
 Version 1.0 </br>
-This add-ons extension is just made for fun on my Friday night, and it may help you have a great day! </br>
+This add-ons extension app is just made for fun on my Friday night, and it may help you have a great day! </br>
 Support only Google Chrome Browser.</br>
 
 ## How to use the app
