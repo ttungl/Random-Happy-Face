@@ -27,7 +27,7 @@ Repeat randomly your icons on Google Chrome browser. Just for fun!
 
 ## Disclaimer:
 Inspired by: Google Chrome Extensions Add-ons App Tutorials <br />
-Modified by: Tung Thanh Le <br />
+Created by: Tung Thanh Le <br />
 Email: ttungl at gmail <br />
 
 ## Language
