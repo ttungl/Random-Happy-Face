@@ -7,7 +7,7 @@ Now it only supports for Google Chrome Browser.</br>
 
 ## How to use the app
 Go to the Chrome Web Store to download. Click on "Add to Chrome" to install it.</br>
-[Link to Chrome Web Store](goo.gl/ILp7b3)
+[Link to Chrome Web Store](http://goo.gl/ILp7b3)
 
 ## Snapshot on Chrome Extensions
 ![alt tag](https://github.com/ttungl/Random-Happy-Face/blob/master/random-happy-face/results/random_happy_face.png?raw=true)
